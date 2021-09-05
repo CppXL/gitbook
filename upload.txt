@@ -1,0 +1,11 @@
+call gitbook init
+call gitbook build
+git add .
+git commit -m "增量更新"
+git push
+cd _book
+git init
+git add -A
+git commit -m "更新html"
+git push -f https://github.com/CppXL/gitbook.git master:gh-pages
+cd ..
