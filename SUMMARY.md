@@ -8,5 +8,5 @@
 
 ## 其他 <a id="others"></a>
 
-* [基于Vmware实现小型域网络搭建](others/ji-yu-vmware-shi-xian-xiao-xing-yu-wang-luo-da-jian.md)
+* [基于Vmware实现小型域网络搭建](others/vmware-based-implementation-of-small-domain-network-construction.md)
 
