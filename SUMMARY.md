@@ -2,9 +2,9 @@
 
 * [首页](README.md)
 
-## 渗透测试 <a id="a-si-dun"></a>
+## 渗透测试 <a id="pentest"></a>
 
-* [Untitled](a-si-dun/untitled.md)
+* [Untitled](pentest/untitled.md)
 
 ## asdf
 
