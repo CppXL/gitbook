@@ -1,12 +1,10 @@
-# Table of contents
+# Summary
 
 * [首页](README.md)
 
-## 漏洞分析 <a id="vuln-analysis"></a>
-
+## 漏洞分析
 * [BurpSuite RCE](vuln-analysis/burpsuite-rce.md)
 
-## 其他 <a id="others"></a>
-
+## 其他
 * [基于Vmware实现小型域网络搭建](others/vmware-based-implementation-of-small-domain-network-construction.md)
 
