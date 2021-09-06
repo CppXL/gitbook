@@ -3,3 +3,4 @@ upload.bat
 _.git
 remote_to_local.bat
 local_to_remote.bat
+merge_local_and_remote.bat
