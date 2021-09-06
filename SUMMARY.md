@@ -1,8 +1,7 @@
-# Table of contents
+# Summary
 
 * [首页](README.md)
 
-## 漏洞分析 <a id="vuln-analysis"></a>
-
+## 漏洞分析
 * [BurpSuite RCE](vuln-analysis/burpsuite-rce.md)
 
