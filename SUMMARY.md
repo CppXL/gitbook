@@ -4,5 +4,5 @@
 
 ## 漏洞分析 <a id="vuln-analysis"></a>
 
-* [BurpSuite RCE](vuln-analysis/untitled.md)
+* [BurpSuite RCE](vuln-analysis/burpsuite-rce.md)
 
