@@ -85,7 +85,7 @@ windows7：172.16.2.3/24 网关172.16.2.254 DNS172.16.2.4
 
 上图为边界路由器的IP地址，如果分配了IP地址则可以在浏览器通过IP地址浏览路由器的web界面，在如果没有分配IP地址则通过wibbox使用MAC地址登录
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29%20%281%29.png)
 
 ![&#x63A5;&#x53E3;&#x5217;&#x8868;](../.gitbook/assets/image.png)
 
