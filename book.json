@@ -7,6 +7,5 @@
     "title" : "gitbook",
     "theme-default": {
         "showLevel": true
-    },
-    "plugins": ["summary", "toggle-chapters", "theme-comscore"]
+    }
 }
