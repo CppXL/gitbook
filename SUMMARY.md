@@ -14,4 +14,3 @@
 
 * [基于Vmware实现小型域网络搭建](others/vmware-based-implementation-of-small-domain-network-construction.md)
 
-* [test](others/test.md)
